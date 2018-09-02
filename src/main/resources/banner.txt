@@ -1,0 +1,1 @@
+${Ansi.GREEN} :: WALGREENS CDI${spring-boot.formatted-version} ::${Ansi.DEFAULT}
